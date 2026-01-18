@@ -77,13 +77,13 @@ Oui, on veut tous le renne. Il est mignon. Il est festif. Mais ce n’est **PAS*
 🚨 Ceci n’est que la **Partie 1**.  
 
 La **Partie 2** couvrira :  
-- Héros, Unités, Garages/Équipes et Forces Spéciales.  
+- Héros, Unités, Équipes et Forces Spéciales.  
 
 ***
 
 ## « Tech Research – Part 2 » (Héros, Unités, Equipes, Forces Spéciales)
 
-Ceci est la Partie 2, qui couvre la recherche **Héros**, **Unités**, **Garages/Équipes** et **Forces Spéciales** (la recherche qui te rend vraiment plus fort au combat).  
+Ceci est la Partie 2, qui couvre la recherche **Héros**, **Unités**, **Équipes** et **Forces Spéciales** (la recherche qui te rend vraiment plus fort au combat).  
 
 ***
 
@@ -97,7 +97,7 @@ Ceci est la Partie 2, qui couvre la recherche **Héros**, **Unités**, **Garages
 
 Ces équipes impactent directement la **puissance** et la **capacité** de ton escouade, donc arrête de repousser et termine‑les.  
 
-Le Équipe 1 affecte l’**Équipe 1**, le Garage 2 l’**Équipe 2**, etc. Assure‑toi que tes escouades sont bien assignées.  
+Le Équipe 1 affecte l’**Équipe 1**, l'equipe  2 l’**Équipe 2**, etc. Assure‑toi que tes escouades sont bien assignées.  
 
 ***
 
