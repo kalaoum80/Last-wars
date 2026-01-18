@@ -1,10 +1,4 @@
-## Mail 1 – « Tech Centre Research » (Partie 1)
-
-(President Mail) **Recherche du Centre de Technologie**
-
-Comme promis, voici un autre guide présidentiel de spam. Au fait, je travaille pour des gemmes 💎💎.  
-
-Comme c’est le jour de recherche en VS, aujourd’hui on va parler de **technologie**.  
+## « Tech Centre Research » (Partie 1)
 
 📌 Clique sur l’⭐ en bas de l’écran et enregistre ce message comme référence. C’est **VRAIMENT** important.  
 
@@ -20,7 +14,7 @@ Comme ce guide est long mais crucial, je vais le diviser en **deux mails**.
 
 📌 **Partie 1** – Couvre la recherche **Développement**, la section **Économie**, le **Duel d’Alliances VS** et le **Camion Interurbain**. Ça aide ta progression générale mais n’impacte pas directement la puissance de ton escouade.  
 
-📌 **Partie 2** – Couvre la recherche **Héros**, **Unités**, **Garages/Équipes** et **Forces Spéciales** (c’est‑à‑dire la recherche qui te rend réellement plus fort en combat).  
+📌 **Partie 2** – Couvre la recherche **Héros**, **Unités**, **Équipes** et **Forces Spéciales** (c’est‑à‑dire la recherche qui te rend réellement plus fort en combat).  
 
 🚨 On est des **guerriers**, pas des **fermiers**. À moins que tu veuilles vraiment être fermier, dans ce cas, ignore tout ce que je viens de dire.  
 
@@ -54,9 +48,9 @@ Si tu comptes vraiment investir ici, prends plutôt les **pelles** que les **pio
 
 ***
 
-### Duel d’Alliances VS – À MAXER
+### Duel d’Alliances – À MAXER
 
-🏆 **Duel d’Alliances VS – MONTE‑LE AU MAX. POINT.**  
+🏆 **Duel d’Alliances – MONTE‑LE AU MAX. POINT.**  
 
 Ce n’est vraiment pas difficile de faire des points si cette recherche est bien faite.  
 
@@ -83,29 +77,27 @@ Oui, on veut tous le renne. Il est mignon. Il est festif. Mais ce n’est **PAS*
 🚨 Ceci n’est que la **Partie 1**.  
 
 La **Partie 2** couvrira :  
-- Héros, Unités, Garages/Équipes et Forces Spéciales.  
+- Héros, Unités, Équipes et Forces Spéciales.  
 
 ***
 
-## Mail 2 – « Tech Research – Part 2 » (Héros, Unités, Garages, Forces Spéciales)
+## « Tech Research – Part 2 » (Héros, Unités, Equipes, Forces Spéciales)
 
-(President Mail) **Recherche Technologique – Partie 2**  
-
-Ceci est la Partie 2, qui couvre la recherche **Héros**, **Unités**, **Garages/Équipes** et **Forces Spéciales** (la recherche qui te rend vraiment plus fort au combat).  
+Ceci est la Partie 2, qui couvre la recherche **Héros**, **Unités**, **Équipes** et **Forces Spéciales** (la recherche qui te rend vraiment plus fort au combat).  
 
 ***
 
-### Garages / Équipes – Ce qu’il faut (ou pas) améliorer
+### Équipes – Ce qu’il faut (ou pas) améliorer
 
-🚗 **Garages – Ce que tu dois (et ne dois pas) améliorer**  
+🚗 **Équipes – Ce que tu dois (et ne dois pas) améliorer**  
 
 ❌ **Équipe 2 & Équipe 3** – N’y touche pas. Pas maintenant, ni de sitôt. C’est du gâchis de ressources.  
 
 ✅ **Équipe 1 & Équipe 4 (pour les détenteurs du Pass VIP)** – Monte‑les au max **dès que possible**. Pas 99 %, **MAX**.  
 
-Ces garages/équipes impactent directement la **puissance** et la **capacité** de ton escouade, donc arrête de repousser et termine‑les.  
+Ces équipes impactent directement la **puissance** et la **capacité** de ton escouade, donc arrête de repousser et termine‑les.  
 
-Le Garage/Équipe 1 affecte l’**Équipe 1**, le Garage 2 l’**Équipe 2**, etc. Assure‑toi que tes escouades sont bien assignées.  
+Le Équipe 1 affecte l’**Équipe 1**, l'equipe  2 l’**Équipe 2**, etc. Assure‑toi que tes escouades sont bien assignées.  
 
 ***
 
