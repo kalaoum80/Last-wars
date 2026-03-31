@@ -1,7 +1,5 @@
 Last Wars - Tech Centre Research
 
-📌 Click on the ⭐ below the screen and save this as a reference. This is REALLY important.  
-
 This message is specifically for those who are Level 27+ with Troop Level 9. (If you’re below this then rush to HQ27 as soon as possible, don’t delay it). It also applies to levels below, so still read on.  
 
 A lot of players rush to HQ Level 30, thinking it’ll automatically make them stronger. Spoiler alert: It won’t. You’ll eventually reach Level 30 it’s just a matter of time.  
