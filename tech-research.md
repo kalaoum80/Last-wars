@@ -1,7 +1,5 @@
 ## « Tech Centre Research » (Partie 1)
 
-📌 Clique sur l’⭐ en bas de l’écran et enregistre ce message comme référence. C’est **VRAIMENT** important.  
-
 Ce message s’adresse spécifiquement à ceux qui sont **niveau 27+** avec des **troupes niveau 9**. (Si tu es en dessous, rusher QG27 dès que possible, ne tarde pas). Ça s’applique aussi aux niveaux en dessous, donc lis quand même.  
 
 Beaucoup de joueurs rushent **QG niveau 30** en pensant que ça va automatiquement les rendre plus forts. Spoiler : non. Tu atteindras le niveau 30 de toute façon, ce n’est qu’une question de temps.  
